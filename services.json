@@ -1,0 +1,18 @@
+{
+  "fullnode": {
+    "port": 8090,
+    "image": "kamand/fullnode"
+  },
+  "solidity": {
+    "port": 8091,
+    "image": "kamand/solidity"
+  },
+  "explorer": {
+    "port": 8080,
+    "image": "kamand/explorer"
+  },
+  "faucet": {
+    "port": 8092,
+    "image": "kamand/faucet"
+  }
+}

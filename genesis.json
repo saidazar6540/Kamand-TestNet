@@ -1,0 +1,8 @@
+{
+  "config": {
+    "chainId": 999,
+    "networkId": 999
+  },
+  "alloc": {},
+  "timestamp": "0x00"
+}
